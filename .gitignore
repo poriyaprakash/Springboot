@@ -20,6 +20,7 @@ target/
 *.iml
 *.ipr
 /htmlReport
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
